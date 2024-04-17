@@ -1,0 +1,1 @@
+# yolo8-north-american-cameratrap-images
