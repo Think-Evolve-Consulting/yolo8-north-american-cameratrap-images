@@ -4,7 +4,7 @@ This Repository contains Research Papers related to **Object Detection** and var
 
 <br>
 
-**Direct Links for the Jupyter Notebooks -**
+## Direct Links for the Jupyter Notebooks -
 
 [Fine-Tuned YOLOv8 Model](Jupyter%20Notebooks/YOLOv8/YOLOv8%20Object%20Detection.ipynb)
 
@@ -16,7 +16,7 @@ This Repository contains Research Papers related to **Object Detection** and var
 
 <br>
 
-**Trained Models (Weights) -**
+## Trained Models (Weights) -
 
 [YOLOv8 (TensorFlow)](Model%20Weights/best.pt)
 
