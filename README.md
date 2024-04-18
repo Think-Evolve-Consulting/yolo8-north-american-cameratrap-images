@@ -11,7 +11,7 @@ This dataset is in Standard COCO Format containing aprroximately 10,000 Camera T
 
 <br>
 
-## Direct Links for the Jupyter Notebooks -
+## Direct Links for Jupyter Notebooks -
 
 
 [Fine-Tuned YOLOv8 Model](Jupyter%20Notebooks/YOLOv8/YOLOv8%20Object%20Detection.ipynb)
