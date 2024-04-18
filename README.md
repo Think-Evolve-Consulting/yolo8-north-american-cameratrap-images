@@ -4,7 +4,7 @@ This Repository contains Research Papers related to **Object Detection** and var
 
 Here are the Direct Links for the Jupyter Notebooks -
 
-[YOLOv8](Jupyter Notebooks/YOLOv8)
-[YOLOv9](Jupyter Notebooks/YOLOv9)
-[GroundingDINO](Jupyter Notebooks/GroundingDINO)
-[Fine-Tuned YOLOv8 Model to ONNX Model Conversion](Jupyter Notebooks/ONNX)
+[YOLOv8]("Jupyter Notebooks/YOLOv8")
+[YOLOv9]("Jupyter Notebooks/YOLOv9")
+[GroundingDINO]("Jupyter Notebooks/GroundingDINO")
+[Fine-Tuned YOLOv8 Model to ONNX Model Conversion]("Jupyter Notebooks/ONNX")
