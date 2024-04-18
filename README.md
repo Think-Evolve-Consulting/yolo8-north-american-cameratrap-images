@@ -16,4 +16,5 @@ Here are the Direct Links for the Jupyter Notebooks -
 __Trained Models (Weights)__
 
 [YOLOv8 (TensorFlow)](Model%20Weights/best.pt)
+
 [YOLOv8 (ONNX)](Model%20Weights/best.onnx)
