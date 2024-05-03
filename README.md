@@ -29,6 +29,8 @@ This dataset is in Standard COCO Format containing aprroximately 10,000 Camera T
 ## Trained Models (Weights) -
 
 
-[YOLOv8 (TensorFlow)](Model%20Weights/best.pt)
+[YOLOv8 - TensorFlow](Model%20Weights/best.pt)
 
-[YOLOv8 (ONNX)](Model%20Weights/best.onnx)
+[YOLOv8 - ONNX](Model%20Weights/best.onnx)
+
+[YOLOv8 - TFJS](Model%20Weights/TFJS)
