@@ -1,4 +1,4 @@
-# YOLOv8 North American Camera Trap Images
+# YOLOv8 on North American Camera Trap Images
 
 This Repository contains Research Papers related to **Object Detection** and various models such as **YOLOv8, DETR, GroundingDINO**, etc as well as the Notebooks containing the code.
 The YOLOv8, YOLOv9 Models are Fine-Tuned over the **North-American Camera Trap Images** for detection and localization of 23 Wildlife Species.
@@ -21,6 +21,8 @@ This dataset is in Standard COCO Format containing aprroximately 10,000 Camera T
 [GroundingDINO Model](Jupyter%20Notebooks/GroundingDINO/GroundingDINO_Object_Detection.ipynb)
 
 [Fine-Tuned YOLOv8 Model to ONNX Model Conversion](Jupyter%20Notebooks/ONNX/YOLOv8_Model_Conversion_ONNX.ipynb)
+
+[Fine-Tuned YOLOv8 Model to TFJS Model Conversion](Jupyter%20Notebooks/TFJS/YOLOv8_TFJS_Conversion.ipynb)
 
 <br>
 
