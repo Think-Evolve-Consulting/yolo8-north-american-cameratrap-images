@@ -32,3 +32,5 @@
    ```
     "homepage": "https://github.com/username/repository_name"
    ```
+
+2. Run `npm run build` to build the project and prepare for production.
