@@ -34,3 +34,19 @@ This dataset is in Standard COCO Format containing aprroximately 10,000 Camera T
 [YOLOv8 - ONNX](Model%20Weights/best.onnx)
 
 [YOLOv8 - TFJS](Model%20Weights/TFJS)
+
+<br>
+
+## TFJS WebApp -
+
+
+[YOLOv8-TFJS WebApp Code](YOLOv8-TFJS-WebApp)
+
+[Live WebApp Link](https://yolov8-tfjs.netlify.app)
+
+<br>
+
+## Others -
+
+
+[Documentation](Documentation.pdf)
